@@ -1,0 +1,41 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Samsung",
+            "color":"black",
+            "price":15000,
+            "category":"mobile",
+            "brand":"Samsung",
+            "photo":"https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a73/buy/A73_Black.png"
+        },
+        {
+            "id":2,
+            "name":"T-shirt",
+            "color":"yellow",
+            "price":800,
+            "category":"cloth",
+            "brand":"Wrangler",
+            "photo":"https://cdn.shopify.com/s/files/1/0091/0707/9273/products/AFPX9833_2_2048x.jpg?v=1564735585"
+        },
+        {
+            "id":3,
+            "name":"Sport Shoes",
+            "color":"blue",
+            "price":1500,
+            "category":"shoes",
+            "brand":"Adidas",
+            "photo":"https://images.unsplash.com/photo-1616258374372-6801d31bdbed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Ymx1ZSUyMHNob2VzfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+        },
+        {
+            "id":4,
+            "name":"football",
+            "color":"white",
+            "price":1100,
+            "category":"sport",
+            "brand":"X-treak",
+            "photo":"https://rukminim1.flixcart.com/image/416/416/jh0vb0w0/ball/m/w/h/300g-1-footbal-5-1-1-football-ssb-original-imaf548yugywfxza.jpeg?q=70"
+        }
+        
+    ]
+}
